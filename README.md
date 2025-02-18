@@ -44,7 +44,7 @@ Installation
 1. Clone the repository:
 bash
 Copy
-git clone https://github.com/jansaidaA2/social-network-ads-svm.git
+git clone https://github.com/@jansaidaA2/social-network-ads-svm.git
 cd social-network-ads-svm
 2. Install dependencies:
 Make sure you have Python 3.7 or above. Then, install the required libraries using pip:
